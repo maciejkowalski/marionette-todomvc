@@ -13,4 +13,9 @@
 //= require rails-ujs
 //= require activestorage
 //= require turbolinks
+//= require jquery
+//= require json2
+//= require underscore
+//= require backbone
+//= require backbone.marionette
 //= require_tree .
