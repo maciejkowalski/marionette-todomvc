@@ -18,4 +18,7 @@
 //= require underscore
 //= require backbone
 //= require backbone.marionette
+// MAIN APP
+//= require todomvc/todomvc
+//= require_tree ./todomvc/entities
 //= require_tree .
